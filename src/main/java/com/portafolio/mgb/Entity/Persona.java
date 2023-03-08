@@ -34,6 +34,10 @@ public class Persona {
         this.descripcion = descripcion;
     }
 
+    public Persona(String nombre, String descripcion) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
     public int getId() {
         return id;
     }

@@ -1,3 +1,4 @@
+com\portafolio\mgb\Service\Sproyectos.class
 com\portafolio\mgb\Controller\CEducacion.class
 com\portafolio\mgb\Controller\CHys.class
 com\portafolio\mgb\Security\Service\UserDetailsImpl.class
@@ -12,7 +13,6 @@ com\portafolio\mgb\Repository\RProyectos.class
 com\portafolio\mgb\Security\Controller\AuthController.class
 com\portafolio\mgb\Controller\CProyectos.class
 com\portafolio\mgb\Security\Dto\JwtDto.class
-com\portafolio\mgb\Service\SProyectos.class
 com\portafolio\mgb\Controller\CExperiencia.class
 com\portafolio\mgb\Security\Service\UsuarioService.class
 com\portafolio\mgb\Security\Entity\Usuario.class
